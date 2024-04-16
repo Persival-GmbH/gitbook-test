@@ -6,9 +6,5 @@ It is an initiative of the [asc(s e.V. Environment for Virtual Test Drive (ENVIT
 The specifications itself are written as independent documents based on so-called "improvement protocols" typically used in de-centralized standardization efforts, e.g. in blockchain domains.
 These individual specification documents stand for themselves but can inherit from one another be be linked to one another.
 
-All EVES documents are written in AsciiDoc format, sequentially numbered and stored in the [EVES folder](./EVES/).
-The process on how to write, submit or change specifications in defined in [EVES-1](./EVES/eves-0001.md).
-
-# Test Section {#testsection}
-
-This is a test.
+All EVES documents are written in Markdown format, sequentially numbered and stored in the [EVES folder](https://github.com/ASCS-eV/EVES/tree/main/EVES) as denoted in the menu on the left.
+The process on how to write, submit or change specifications in defined in [EVES-1](eves-0001.md).
