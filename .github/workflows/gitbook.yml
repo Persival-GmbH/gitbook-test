@@ -24,5 +24,5 @@ jobs:
         source_dir: EVES
         source_edit_time: true
         publish_commit_message: ${{ github.event.head_commit.message }}
-        publish_branch: main
-        publish_dir: docs
+        publish_branch: gh-pages
+        publish_dir: .
